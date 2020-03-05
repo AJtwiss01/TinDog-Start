@@ -1,4 +1,5 @@
 
+  {
   "name": "static",
   "version": "1.0.0",
   "description": "This is a static template with no bundling",
@@ -24,3 +25,4 @@
   "devDependencies": {
     "serve": "^11.2.0"
   }
+}
